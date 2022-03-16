@@ -11,7 +11,7 @@ ${stocks}   xpath://span[contains(text(),'Stocks')]
 ${add wishlist}     class:k-cursor--pointer
 ${remove wishlist}   class:k-cursor--pointer
 ${Gainers}  xpath://div[contains(text(),'Gainers')]
-${Select}   xpath://span[contains(text(),'Himadri Speciality Chemical Ltd')]
+${Select}   xpath://span[contains(text(),'The New India Assurance Co Ltd')]
 ${buy stocks}   xpath://button[contains(text(),'Buy stocks')]
 ${sort}     class:b-fund-sort-wrapper__sort-by-icon
 ${Low to High}  //*[contains(text(),'Low to high')]
