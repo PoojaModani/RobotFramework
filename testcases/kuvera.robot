@@ -24,9 +24,9 @@ ${Real Estate Services}     //*[contains(text(),'Real Estate Services')]
 ${clear all}    xpath://div[contains(text(),'Clear all')]
 ${Import now}   xpath://span[contains(text(),'Import now >')]
 ${email}    id:email
-${email value}  Indiakarnataka18@gmail.com
+${email value}  TYPE YOUR EMAIL
 ${password}     id:password
-${pass value}   Tom2jerry!
+${pass value}   TYPE YOUR PASSWORD
 ${button}   id:login-btn
 ${search}   class:b-search-stock__text-field
 ${search value}     JSW Energy Ltd
